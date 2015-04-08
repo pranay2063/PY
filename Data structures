@@ -8,3 +8,6 @@ Data structures in Python:
 
     Sets , strings and tuples are immutable in Python.
     But, lists and dictionaries are mutable.
+    
+Check this : 
+http://www.thelearningpoint.net/computer-science/learning-python-programming-and-data-structures/learning-python-programming-and-data-structures--tutorial-4--built-in-data-structures-strings-lists-tuples-dictionaries-mutability
