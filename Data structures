@@ -1,0 +1,10 @@
+Data structures in Python:
+    
+    Sets
+    Lists
+    Dictionaries
+    Strings
+    Tuples
+
+    Sets , strings and tuples are immutable in Python.
+    But, lists and dictionaries are mutable.
