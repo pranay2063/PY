@@ -1,6 +1,7 @@
 
 # problemset with statistics
 # problems can be filtered by tags
+# Author : Pranay Ranjan
 
 import sys
 from urllib import urlopen
