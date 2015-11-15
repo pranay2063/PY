@@ -1,6 +1,6 @@
 
-#Python script to show all contests' details
-#Author : Pranay Ranjan
+# Python script to show all contests' details
+# Author : Pranay Ranjan
 
 from urllib import urlopen
 from json import load
