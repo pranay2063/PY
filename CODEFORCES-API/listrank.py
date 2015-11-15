@@ -1,6 +1,6 @@
 
-#Python script to show RankList starting from Rank 1 in Terminal
-#Author : Pranay Ranjan
+# Python script to show RankList starting from Rank 1 in Terminal
+# Author : Pranay Ranjan
 
 from urllib import urlopen
 from json import load
