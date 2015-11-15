@@ -14,5 +14,5 @@ for obj in json_obj['result']:
 	print("Type : "+str(obj['type']))
 	print("Phase : "+str(obj['phase']))
 	#print("Start : "+str(obj['startTimeSeconds']))
-	print("Duration : "+str(obj['durationSeconds']))
+	print("Duration : "+str(obj['durationSeconds'])) 
 
