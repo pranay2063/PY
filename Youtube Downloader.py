@@ -1,8 +1,8 @@
 
-#20 october 2015
+# 20 october 2015
 
-#script for youtube downloader
-#this code does not work for all videos ,eg, VEVO,T-SERIES (restricted background play)
+# script for youtube downloader
+# this code does not work for all videos ,eg, VEVO,T-SERIES (restricted background play)
 
 # https://docs.python.org/3/library/urllib.parse.html
 # use urllib2.urlopen() in python2 
@@ -13,8 +13,8 @@ import sys
 import urllib2,urlparse
 
 link  = sys.argv[1]
-#The object sys.argv is just a list containing everything from the command line
-#sys.argv[0] is the name of the script
+# The object sys.argv is just a list containing everything from the command line
+# sys.argv[0] is the name of the script
 
 resp  = urllib2.urlopen("https://www.youtube.com/get_video_info?video_id="+link)
 data  = resp.read()
